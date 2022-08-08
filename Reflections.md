@@ -15,3 +15,5 @@ use clear variables
 Git is a software that allows users to track and store code, and manage changes in computer files. Primarily used by programmers working collaboratively to co-ordinate their work, Git provides features such as branches that are needed to support multiple parallel developments without disrupting each other's work, and t he ability to merge branches. It is a Version Control System - a system that maintains a history of modifications to a set of data or computer file, so that it can be returned to if needed. 
 ### What is GitHub?
 GitHub is a version control cloud-based hosting service for managing Git repositories. GitHub is useful for co-ordinating, tracking, and updating work in projects with other collaborators.
+## Week 3:
+
