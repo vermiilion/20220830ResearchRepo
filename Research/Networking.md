@@ -5,3 +5,5 @@ A switch is a networking hardware that connects all the devices in a network. Fo
 
 | Serial no. | Component Name | Quantity | Price per Unit | Total Price | Reference |
 | --- | ---|---|---|---|---|
+|---|Computer|---|---|---|---|
+|---|Switch|---
