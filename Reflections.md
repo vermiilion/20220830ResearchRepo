@@ -9,22 +9,26 @@ Scratch is a visual programming language and website that allows users to progra
 Visual programming is a type of programming language that uses visual components to present processes i.e graphics, symbols, buttons that are already defined with code, in comparison to the traditional text-based programming where lines of code must be typed out in order to perform specific tasks. The idea of visual programming is to use visual concepts that make it easier for humans to understand rather than forcing them to think like a computer, which makes it a more beginner-friendly language.
 ### What are some programming principles that you have discovered?
 I don't think I had recognised any programming principles at this point because I was still trying to wrap my head around what programming is and how it works.
+I didn't have much prior knowledge of programming languages, but I do have experience and interest in learning foreign languages. I wondered if there was much similarity between the two, and if my experience will help me at all in grasping programming. I realised that they were quite fundamentally different. Programming languages are quite heavily based on problem solving, and leaves no space for error. Human languages are used to communicate between at least two parties and allows nuance, imperfections, and creativity, whereas programming languages are used for computers to carry out a series of commands. In fact, I later searched up a comparison and found [a study](https://news.mit.edu/2020/brain-reading-computer-code-1215) by MIT neuroscientists that interpreting code does not rely on regions of the brain that are involved in language processing. Despite the differences between the two, I do think there are some skills learnt from learning human languages that could be applied to programming. The main one for me being that learning foreign languages often forces you to ditch the structures and rules you already know and interpret things differently.
+
 ### Can you share your favourite Scratch project that you have made or remixed?
-I no longer have access to the scratch project I made, but I made a small interactive animation where the cat asks the user to input their name, and if they input my name, the cat says hi and a compliment. Otherwise, it will increase in size and tell the user to "fuck off" because they aren't me. I also played around with the movement functions and made the cat "dance" and move across the screen. This little project helped me learn about the idea of programming and how functions such as "if" and else" work in a way that retained my attention and wasn't too overwhelming for me. There were times when I would struggle with understanding how the blocks worked and fitted in with each other, but I eventually learned to just try different thing and learn by seeing what works and what doesn't. 
+I no longer have access to this scratch project, but I made a small interactive animation where the cat asks the user to input their name, and if they input my name, the cat says hi and a compliment. Otherwise, it will increase in size and tell the user to "fuck off" because they aren't me. I also played around with the movement functions and made the cat "dance" and move across the screen. This little project helped me learn about the idea of programming and how functions such as "if" and else" work in a way that retained my attention and wasn't too overwhelming for me. There were times when I would want to try out certain commands but struggled with understanding how the blocks worked and fitted in with each other. After a lot of trial and error, I managed to learn how some of the functions work by seeing what works and what doesn't, and why. 
 
  ## Week 2:
 
 ### What is git?
-Git is a software that allows users to track and store code, and manage changes in computer files. Primarily used by programmers working collaboratively to co-ordinate their work, Git provides features such as branches that are needed to support multiple parallel developments without disrupting each other's work, and t he ability to merge branches. It is a Version Control System - a system that maintains a history of modifications to a set of data or computer file, so that it can be returned to if needed. 
+Git is a software that allows users to track and store code, and manage changes in computer files. Primarily used by programmers working collaboratively to co-ordinate their work, Git provides features such as branches that are needed to support multiple parallel developments without disrupting each other's work, and the ability to merge branches. It is a Version Control System - a system that maintains a history of modifications to a set of data or computer file, so that it can be returned to if needed. 
 ### What is GitHub?
 GitHub is a version control cloud-based hosting service for managing Git repositories. GitHub is useful for co-ordinating, tracking, and updating work in projects with other collaborators.
 ## Week 3:
-
+Intro to Python
 ## Week 4:
-
+Agile
 ## Week 5:
+Agile - Marshmallow challenge
 
 ## Week 6:
+Python Koans is an interactive tutorial that uses a series of exercises, or "tests" that you need to make pass in order to reach enlightment, i.e. learn Python. "Koans" is taken from Zen Buddhism - "a nonsensical or paradoxical question to a student for which an answer is demanded, the stress of meditation on the question often being illuminating." Koans would be used as a meditative technique and is meant to "break" the thinking mind. 
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
