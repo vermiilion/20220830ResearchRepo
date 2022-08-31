@@ -20,15 +20,44 @@ I no longer have access to this scratch project, but I made a small interactive 
 Git is a software that allows users to track and store code, and manage changes in computer files. Primarily used by programmers working collaboratively to co-ordinate their work, Git provides features such as branches that are needed to support multiple parallel developments without disrupting each other's work, and the ability to merge branches. It is a Version Control System - a system that maintains a history of modifications to a set of data or computer file, so that it can be returned to if needed. 
 ### What is GitHub?
 GitHub is a version control cloud-based hosting service for managing Git repositories. GitHub is useful for co-ordinating, tracking, and updating work in projects with other collaborators.
+
+I am still quite unfamiliar with GitHub outside of basic things like creating and renaming files, forking repositories. I have yet to explore other features, and frankly I'm a little intimidated. However, I did find it satisfying using markdown in my repository, switching between the 'Edit file' and the 'Preview' section to see how things like using hashes next to some text translated visually. I think I would be interested in learning more about markup languages and get into the presentational side of coding.
+ I found this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) quite helpful, though I haven't had the need to go through all of it yet.
 ## Week 3:
-Intro to Python
-## Week 4:
+### Intro to Python
+Python is a high-level general-purpose programming language. "High-level" refers to the higher level of abstraction from machine language. High-level languages such as Python uses natural language elements and focuses on usability and readability. This makes Python an ideal programming language for beginners.
+
+#### Some guiding principles from the Zen of Python:
+* Beautiful is better than ugly.
+* Explicit is better than implicit.
+* Simple is better than complex.
+* Complex is better than complicated.
+* Flat is better than nested.
+* Sparse is better than dense.
+* Readability counts.
+* Special cases aren't special enough to break the rules.
+* Although practicality beats purity.
+* Errors should never pass silently.
+* Unless explicitly silenced.
+* In the face of ambiguity, refuse the temptation to guess.
+* There should be one– and preferably only one –obvious way to do it.[a]
+* Although that way may not be obvious at first unless you're Dutch.
+* Now is better than never.
+* Although never is often better than right now.
+* If the implementation is hard to explain, it's a bad idea.
+* If the implementation is easy to explain, it may be a good idea.
+* Namespaces are one honking great idea – let's do more of those!
+
+I found it hard to follow Sarmad's guest lecture on Intro to Python, though I suspect its partially because of the way it was taught - an online lecture where full attention is required in order to not miss out on any important details. I later tried rewatching the lecture, as well as a 1 hour [Youtube Tutorial](https://www.youtube.com/watch?v=kqtD5dpn9C8&t=2309s) by Programming with Mosh to catch up. I found it useful that I could pause the video at any given time and rewind as much as needed, but ended up spending much more than an hour on the first 30 minutes of the tutorial. I couldn't get myself to do any of the exercises he provided throughout the video because I didn't even know where to start, but I found it useful when he would demonstrate errors when writing the code and explain the process behind correcting these.
+Later on in the week, I had a friend's flatmate who has some experience with Python go through a few of the class exercises with me. I liked that he wasn't an expert and was unfamiliar with some of the functions but still more experienced, so every now and then we would have to go through parts of the [Python Tutorial](https://www.w3schools.com/python/default.asp) to figure out which functions would work for the exercise. I would watch his process of trial and error and he would occassionally comment and explain his reasonings along the way, and then he would allow me time to ask questions and try to finish the rest of the code myself once he felt like I had some kind of understanding. I found this method of learning quite enjoyable. I would say one-on-one learning is the most effective method for me because it means I can go at my own pace, and it doesn't leave me much space to get distracted.
+
+## Week 4 & Week 5:
 Agile
-## Week 5:
-Agile - Marshmallow challenge
 
 ## Week 6:
-Python Koans is an interactive tutorial that uses a series of exercises, or "tests" that you need to make pass in order to reach enlightment, i.e. learn Python. "Koans" is taken from Zen Buddhism - "a nonsensical or paradoxical question to a student for which an answer is demanded, the stress of meditation on the question often being illuminating." Koans would be used as a meditative technique and is meant to "break" the thinking mind. 
+Python Koans is an interactive tutorial that uses a series of exercises, or "tests" that you need to make pass in order to reach enlightment, i.e. learn Python. "Koans" is taken from Zen Buddhism - "a nonsensical or paradoxical question to a student for which an answer is demanded, the stress of meditation on the question often being illuminating." Koans would be used as a meditative technique and is meant to "break" the thinking mind.
+
+## Reflective Questions:
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
