@@ -125,17 +125,18 @@ Not exactly a moment, but I think the hardest part of this course for me was to 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 Ways that I found the Canvas modules helpful was that it essentially gave me a list of topics for me to learn, sectioned organisationally. A lot of the time, I didn't have the "bigger picture" or I would miss parts of lectures. Knowing which content is useful for me to learn was helpful, although I didn't get through too many of the modules because I spent too long on each one and then got too frustrated.
 
-### Which parts of the work did you find tedious?
-What I mostly found tedious was learning all the new terms and concepts and trying to understand them. This took me so much time and energy.
+### Which parts of the work did you find tedious? Which parts of this course made you feel doubtful of your own innate ability?
+What I mostly found tedious was learning all the new terms and concepts and trying to understand them. This took me so much time and energy. I would often get discouraged or put off because even after reading multiple explanations from different sources, I felt like I still didn't understand it. It made me feel slow and stupid.
 
 ### What is OOP?
 OOP stands for Object-Oriented Programming. It relies on concepts of classes and objects, rather than function and logic. Software is designed by using these objects that contain data and interact with each other. The main principles of object-oriented programming are encapsulation, abstraction, inheritance and polymorphism. 
+
 ### What is polymorphism?
 Polymorphism means "many-shaped". In computer science, polymorphism refers to situations in which something can occur in different forms. 
 Polymorphism is a core concept of OOP that allows us to perform a single action in different ways.
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
-
+MVP stands for Minimum Viable Product.
 ### What is pair programming?
 
 ### What are you looking forward to learning about programming?
@@ -143,9 +144,7 @@ Polymorphism is a core concept of OOP that allows us to perform a single action 
 ### What is conscious listening?
 
 ### What is a variable?
+A variable is any characteristics or value that can be measured or changed. A variable is used to store information.
 
 ### What programming languages are you interested in learning? Why?
 I'm still unfamiliar with the differences between different programming languages, only the names.
-
-### Which parts of this course made you feel doubtful of your own innate ability?
-
