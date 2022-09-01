@@ -1,3 +1,5 @@
+# Activity 2: Convert a month name to a number of days.
+
 months_with_31days = ["January", "March", "May", "July", "August", "October", "December"]
 months_with_30days = ["April", "June", "September", "November"]
 months_with_28_29days = ["February"]
