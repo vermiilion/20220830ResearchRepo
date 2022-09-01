@@ -70,7 +70,7 @@ A key principle of Buddhism is to let go of binary thinking, and the Koans are u
 ## Reflective Questions:
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-
+I don't tend to take regular breaks 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
@@ -95,9 +95,9 @@ Management is key! Whether it is time management, or managing my feelings. There
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
-
+I have about 16 tabs open on my browser and all of them are study related tabs. 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
-
+Yes, I'm about to fight my damn Macbook right now because the dock/internet browser stopped responding and after trying everything I could, I had to restart the dock and I lost hours of work. This is the second time this has happened this week. Thoughts like "This is why I fucking hate computers" went through my head. And then I remember that's partially the reason I wanted to take this course in the first place - to have a better relationship with computers and IT. From now on, I will commit changes more frequently so less work is lost if the same thing happens again. (Although this time, it became unresponsive in the middle of me clicking the 'Commit changes' button. Lucky me.) I figured it would stress me out even more if I dwelled on the work I lost so I will just count my losses, be grateful that I still remember the gist of what I said, and move on.
 ### What is an IDE?
 
 ### What did you learn out of the Marshmallow Challenge?
