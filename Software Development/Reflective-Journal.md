@@ -89,7 +89,6 @@ During Week 6's Python Koans lesson, I had a go at explaining and teaching anoth
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 Management is key! Whether it is time management, or managing my feelings. There will be plenty of new and complicated things I will have to wrap my head around, but don't get discouraged. Other people are struggling too, and just because I don't think I have made as much progress as others, don't let this be a reason to give up or feel bad about myself. Allow breaks when needed, allocate certain time slots in my week for uni work, and when I'm stuck, take a break and come back to it with a fresh perspective. Try to work on things one thing at a time, a little bit at a time, so that I don't get overwhelmed and ditch it entirely. Don't be afraid to ask questions and ask for help! Classmates are more than happy to help out, and teaching others is also a good way to learn. Also don't forget to save your work frequently!!
-### What is Python?
 
 ### Have you developed a habit of exploring?
 
@@ -107,17 +106,13 @@ I have about 16 tabs open on my browser and all of them are study related tabs. 
 Yes, I'm about to fight my damn Macbook right now because the dock/internet browser stopped responding and after trying everything I could, I had to restart the dock and I lost hours of work. This is the second time this has happened this week. Thoughts like "This is why I fucking hate computers" went through my head. And then I remember that's partially the reason I wanted to take this course in the first place - to have a better relationship with computers and IT. From now on, I will commit changes more frequently so less work is lost if the same thing happens again. (Although this time, it became unresponsive in the middle of me clicking the 'Commit changes' button. Lucky me.) I figured it would stress me out even more if I dwelled on the work I lost so I will just count my losses, be grateful that I still remember the gist of what I said, and move on.
 ### What is an IDE?
 
-### What did you learn out of the Marshmallow Challenge?
-
-### Did you have any blocks during this challenge? How did you overcome them?
 
 ### So far, what was the hardest moment of this course for you?
-Not exactly a moment, but I think the hardest part of this course for me was to keep focused and motivated. I was constantly getting overwhelmed which affected my performance
-
+Not exactly a moment, but I think the hardest part of this course for me was to keep focused and motivated. I was constantly getting overwhelmed which affected my performance, and made me put a lot of things off. Another one was finding the will to keep going after I had lost some of my work. I realised that it is important to think about what I can do to take a step forward, even if just by a little, instead of staying in the same place.
 ### What is OOP?
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
-Ways that I found the Canvas modules helpful was that it essentially gave me a list of topics for me to learn 
+Ways that I found the Canvas modules helpful was that it essentially gave me a list of topics for me to learn, sectioned organisationally. A lot of the time, I didn't have the "bigger picture" or I would miss parts of lectures. Knowing which content is useful for me to learn was helpful, although I didn't get through too many of the modules because I spent too long on each one and then got too frustrated.
 
 ### Which parts of the work did you find tedious?
 
@@ -138,7 +133,7 @@ Ways that I found the Canvas modules helpful was that it essentially gave me a l
 ### What is a variable?
 
 ### What programming languages are you interested in learning? Why?
-
+I'm still unfamiliar with the differences between different programming languages, only the names.
 ### What is something kind that someone has done for you?
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
