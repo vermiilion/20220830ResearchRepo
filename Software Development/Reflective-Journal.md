@@ -70,7 +70,7 @@ A key principle of Buddhism is to let go of binary thinking, and the Koans are u
 ## Reflective Questions:
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-I don't tend to take regular breaks 
+I often forget, or refuse to take regular breaks from my screen when I'm doing uni work. I think it might be partially because I don't tend to pay attention to how much time has passed while doing work but rather how much work I've done. Sometimes, I feel like the break isn't deserved when I haven't done enough. Sometimes, I feel like I can't get back to the swing of things or will get too distracted if I take a break. However, I have recently gotten into the habit of working out (which includes the stretching before and after), usually prior to starting any uni work. I feel like this has helped me with my restlessness and habit making. I think taking regular breaks from the screen despite how much progress I've made during that time period could help me and my motivation, but I will really need to make an effort to make sure I do this.
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
@@ -81,7 +81,7 @@ I don't tend to take regular breaks
 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
-Management is key! Whether it is time management, or managing my feelings. There will be plenty of new and complicated things I will have to wrap my head around, but don't get discouraged. Other people are struggling too, and just because I don't think I have made as much progress as others, don't let this be a reason to give up or feel bad about myself. Allow breaks when needed, allocate certain time slots in my week for uni work, and when I'm stuck, take a break and come back to it with a fresh perspective. Try to work on things one thing at a time, a little bit at a time, so that I don't get overwhelmed and ditch it entirely. Don't be afraid to ask questions and ask for help! Classmates are more than happy to help out, and teaching others is also a good way to learn.
+Management is key! Whether it is time management, or managing my feelings. There will be plenty of new and complicated things I will have to wrap my head around, but don't get discouraged. Other people are struggling too, and just because I don't think I have made as much progress as others, don't let this be a reason to give up or feel bad about myself. Allow breaks when needed, allocate certain time slots in my week for uni work, and when I'm stuck, take a break and come back to it with a fresh perspective. Try to work on things one thing at a time, a little bit at a time, so that I don't get overwhelmed and ditch it entirely. Don't be afraid to ask questions and ask for help! Classmates are more than happy to help out, and teaching others is also a good way to learn. Also don't forget to save your work frequently!!
 ### What is Python?
 
 ### Have you developed a habit of exploring?
