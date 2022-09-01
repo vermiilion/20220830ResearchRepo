@@ -84,8 +84,13 @@ I have never heard of Timeboxing before, but after a quick Google search I found
 ### What are of you proud of up to this point in the course?
 During Week 6's Python Koans lesson, I had a go at explaining and teaching another student for the first time in this course, rather than the other way around. Although I didn't feel like I was in any place to do that, especially since this was our first lesson doing Koans, this helped with my confidence and attitude towards my progress. Prior to this, I felt like I was all alone in my confusion and that I was constantly behind everyone else. Helping out a fellow student made me realise that we all make progress at different rates, and if I was able to have enough of a grasp on a topic to help somebody else, I wasn't as lost as I thought I was.
 
-### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
+### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself.
+I don't think I had a personal learning strategy, but I would sometimes make myself rules to motivate me to do work. These included:
+* Only going out to see friends after I have done "enough" uni work
+* Leaving my leisure movie and cartoon watching time for after finishing my tasks
+* If I'm struggling to sit there and do work, go have a workout and come back to it
 
+I didn't usually specify how much work I had to do before I rewarded myself so I don't think it was very affective, and I usually would still end up going out even if I felt like I didn't do "enough" which made my rules redundant.
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 Management is key! Whether it is time management, or managing my feelings. There will be plenty of new and complicated things I will have to wrap my head around, but don't get discouraged. Other people are struggling too, and just because I don't think I have made as much progress as others, don't let this be a reason to give up or feel bad about myself. Allow breaks when needed, allocate certain time slots in my week for uni work, and when I'm stuck, take a break and come back to it with a fresh perspective. Try to work on things one thing at a time, a little bit at a time, so that I don't get overwhelmed and ditch it entirely. Don't be afraid to ask questions and ask for help! Classmates are more than happy to help out, and teaching others is also a good way to learn. Also don't forget to save your work frequently!!
