@@ -114,20 +114,20 @@ Yes, I'm about to fight my damn Macbook right now because the dock/internet brow
 
 ### So far, what was the hardest moment of this course for you?
 Not exactly a moment, but I think the hardest part of this course for me was to keep focused and motivated. I was constantly getting overwhelmed which affected my performance, and made me put a lot of things off. Another one was finding the will to keep going after I had lost some of my work. I realised that it is important to think about what I can do to take a step forward, even if just by a little, instead of staying in the same place.
-### What is OOP?
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 Ways that I found the Canvas modules helpful was that it essentially gave me a list of topics for me to learn, sectioned organisationally. A lot of the time, I didn't have the "bigger picture" or I would miss parts of lectures. Knowing which content is useful for me to learn was helpful, although I didn't get through too many of the modules because I spent too long on each one and then got too frustrated.
 
 ### Which parts of the work did you find tedious?
+What I mostly found tedious was learning all the new terms and concepts and trying to understand them. This took me so much time and energy.
 
+### What is OOP?
+OOP stands for Object-Oriented Programming. It relies on concepts of classes and objects, rather than function and logic. Software is designed by using these objects that contain data and interact with each other. The main principles of object-oriented programming are encapsulation, abstraction, inheritance and polymorphism. 
 ### What is polymorphism?
-
-### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+Polymorphism means "many-shaped". In computer science, polymorphism refers to situations in which something can occur in different forms. 
+Polymorphism is a core concept of OOP that allows us to perform a single action in different ways.
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
-
-### What is the hardest problem you have solved so far?
 
 ### What is pair programming?
 
@@ -139,15 +139,12 @@ Ways that I found the Canvas modules helpful was that it essentially gave me a l
 
 ### What programming languages are you interested in learning? Why?
 I'm still unfamiliar with the differences between different programming languages, only the names.
-### What is something kind that someone has done for you?
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
 
 ### Which parts of this course made you feel doubtful of your own innate ability?
 
 ### What is a fixed mindset?
-
-### What is something kind you have done for someone else?
 
 ### Have you done mindfulness or attention training before?
 
