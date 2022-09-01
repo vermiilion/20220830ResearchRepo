@@ -40,7 +40,7 @@ Python is a high-level general-purpose programming language. "High-level" refers
 * Errors should never pass silently.
 * Unless explicitly silenced.
 * In the face of ambiguity, refuse the temptation to guess.
-* There should be one– and preferably only one –obvious way to do it.[a]
+* There should be one– and preferably only one –obvious way to do it.
 * Although that way may not be obvious at first unless you're Dutch.
 * Now is better than never.
 * Although never is often better than right now.
@@ -49,13 +49,23 @@ Python is a high-level general-purpose programming language. "High-level" refers
 * Namespaces are one honking great idea – let's do more of those!
 
 I found it hard to follow Sarmad's guest lecture on Intro to Python, though I suspect its partially because of the way it was taught - an online lecture where full attention is required in order to not miss out on any important details. I later tried rewatching the lecture, as well as a 1 hour [Youtube Tutorial](https://www.youtube.com/watch?v=kqtD5dpn9C8&t=2309s) by Programming with Mosh to catch up. I found it useful that I could pause the video at any given time and rewind as much as needed, but ended up spending much more than an hour on the first 30 minutes of the tutorial. I couldn't get myself to do any of the exercises he provided throughout the video because I didn't even know where to start, but I found it useful when he would demonstrate errors when writing the code and explain the process behind correcting these.
-Later on in the week, I had a friend's flatmate who has some experience with Python go through a few of the class exercises with me. I liked that he wasn't an expert and was unfamiliar with some of the functions but still more experienced, so every now and then we would have to go through parts of the [Python Tutorial](https://www.w3schools.com/python/default.asp) to figure out which functions would work for the exercise. I would watch his process of trial and error and he would occassionally comment and explain his reasonings along the way, and then he would allow me time to ask questions and try to finish the rest of the code myself once he felt like I had some kind of understanding. I found this method of learning quite enjoyable. I would say one-on-one learning is the most effective method for me because it means I can go at my own pace, and it doesn't leave me much space to get distracted.
+Later on in the week, I had a friend's flatmate who has some experience with Python go through a few of the class exercises with me. I liked that he wasn't an expert and was unfamiliar with some of the syntax, but still more experienced, so every now and then we would have to go through parts of the [Python Tutorial](https://www.w3schools.com/python/default.asp) to figure out which functions would work for the exercise. I would watch his process of trial and error and he would occassionally comment and explain his reasonings along the way, and then he would allow me time to ask questions and try to finish the rest of the code myself once he felt like I had some kind of understanding. I found this method of learning quite enjoyable. I would say one-on-one learning is the most effective method for me because it means I can go at my own pace, and it doesn't leave me much space to get distracted. By the end of this lesson, I knew my next step to progress in my Python journey was to take my time going through the Python Tutorial modules and understanding them, and then practice what I've learnt through exercises. (I haven't really had the time and energy to do much of this, though). 
 
 ## Week 4 & Week 5:
-Agile
+Agile is an approach to project management and software development. These two weeks I had been feeling unwell so I missed most of the lessons that focused on Agile methodology. I came into Week 5's lesson a little lost, and when we performed an Agile ritual as a class where we had to gather into a circle and share with the class our ideas for our software project, I couldn't really understand what it was about this ritual that made it an Agile ritual or what Agile really is. This one was on me, though, because I haven't taken the time to research Agile and catch up with the content I missed in class. I tried attending the lesson where the class did the Marshmallow Challenge via Teams, but as Agile is a methodology that in some ways needs to be experienced to be taught and I couldn't attend the class in person or have the materials for this challenge at home with me, I couldn't have this hands-on learning experience. I could only look up what lessons the Marshmallow Challenge taught - which was about the creative software development process, and prototyping. I learnt that Kindergarten students tend to do the Marshmallow Challenge well because of their tendency to just build and build, creating multiple designs that sometimes fail and collapse but they take these failures to figure out what went wrong and improve with their next build, instead of just focusing on one set plan. 
+After an overdue reading of what Agile is and its principles, I tried to apply these to what we have discussed and tried in class, but found it hard to understand what most of the principles mean and how it correlates to things we've done. The only ones I felt like I "got" were:
+
+* Build projects around motivated individuals. 
+Give them the environment and support they need, 
+and trust them to get the job done."
+
+* The most efficient and effective method of 
+conveying information to and within a development 
+team is face-to-face conversation."
 
 ## Week 6:
 Python Koans is an interactive tutorial that uses a series of exercises, or "tests" that you need to make pass in order to reach enlightment, i.e. learn Python. "Koans" is taken from Zen Buddhism - "a nonsensical or paradoxical question to a student for which an answer is demanded, the stress of meditation on the question often being illuminating." Koans would be used as a meditative technique and is meant to "break" the thinking mind.
+A key principle of Buddhism is to let go of binary thinking, and the Koans are used as a tool to reach this. In a similar way, learning Python requires you to explore different ways of thinking, and creative problem solving skills seem like one of the key skills in being successful with Python (as well as other programming languages, I assume). I found doing these tests an enjoyable challenge, though I didn't really "get" it at first. I figured it wasn't all so important to "get" it, but rather the process, and how I respond when the tests return false. As of now, I have completed only 14 Koans, or 4%
 
 ## Reflective Questions:
 
@@ -71,7 +81,7 @@ Python Koans is an interactive tutorial that uses a series of exercises, or "tes
 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
-
+Management is key! Whether it is time management, or managing my feelings. There will be plenty of new and complicated things I will have to wrap my head around, but don't get discouraged. Other people are struggling too, and just because I don't think I have made as much progress as others, don't let this be a reason to give up or feel bad about myself. Allow breaks when needed, allocate certain time slots in my week for uni work, and when I'm stuck, take a break and come back to it with a fresh perspective. Try to work on things one thing at a time, a little bit at a time, so that I don't get overwhelmed and ditch it entirely. Don't be afraid to ask questions and ask for help! Classmates are more than happy to help out, and teaching others is also a good way to learn.
 ### What is Python?
 
 ### Have you developed a habit of exploring?
