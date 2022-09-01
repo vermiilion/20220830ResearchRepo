@@ -82,6 +82,7 @@ I have never heard of Timeboxing before, but after a quick Google search I found
 * **Security Trends Presentation - 3/5** I'm petrified of public speaking, but I'm somewhat confident in my researching ability. However, I'm worried I will have a lot of trouble understanding what I am researching.
 
 ### What are of you proud of up to this point in the course?
+During Week 6's Python Koans lesson, I had a go at explaining and teaching another student for the first time in this course, rather than the other way around. Although I didn't feel like I was in any place to do that, especially since this was our first lesson doing Koans, this helped with my confidence and attitude towards my progress. Prior to this, I felt like I was all alone in my confusion and that I was constantly behind everyone else. Helping out a fellow student made me realise that we all make progress at different rates, and if I was able to have enough of a grasp on a topic to help somebody else, I wasn't as lost as I thought I was.
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
