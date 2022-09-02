@@ -3,10 +3,10 @@ This is my research repository which I will use to gather what I have learned th
 
 ## Contents:
 
-* [Reflective Journal](weekly-journal.md)
-* [Reflective Questions](Reflective-Questions.md)
+* [Reflective Journal](https://github.com/vermiilion/20220830ResearchRepo/blob/main/Software%20Development/Weekly-Journal.md)
+* [Reflective Questions](https://github.com/vermiilion/20220830ResearchRepo/blob/main/Software%20Development/Reflective-Questions.md)
 * [Python Exercises](https://github.com/vermiilion/20220830ResearchRepo/tree/main/Software%20Development/Code/Python/Python%20Exercises)
 * [Python Koans](https://github.com/vermiilion/python_koans)
-* [Python Koans Reflections](Python-Koans.py)
+* [Python Koans Reflections](https://github.com/vermiilion/20220830ResearchRepo/blob/main/Software%20Development/Code/Python/Python-Koans.py)
 
 
