@@ -1,4 +1,6 @@
-# 20220830-ResearchRepository
+# 20220830-Research-Repository
+#### *Whitecliffe IT5016 Software Dev. Fundamentals Research Repository*
+
 This is my research repository which I will use to gather what I have learned throughout the course and reflect on my progress and learning process.
 
 ## Contents:
