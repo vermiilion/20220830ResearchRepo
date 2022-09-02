@@ -65,15 +65,13 @@ Polymorphism means "many-shaped". In computer science, polymorphism refers to si
 Polymorphism is a core concept of OOP that allows us to perform a single action in different ways.
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
-MVP stands for Minimum Viable Product.
+MVP stands for Minimum Viable Product. It is a development technique where a product in its most basic form is introduced to the market in order to validate a product idea early in the product development cycle and get sufficient feedback, which will help guide it towards its final product. If I were to describe this concept to a group of 6 year olds, I would compare it to a draft version or a brainstorm of a piece of writing or story. The draft or brainstorm is usually first checked by the teacher, who now knows the general idea or storyline and will give feedback or suggestions on where to go next. The student will then take the feedback and use this to aid in writing a final piece. I think 6 year olds are used to the concept of teachers checking their work and giving feedback, so this would be a sufficient enough comparison, except instead of a piece of writing or drawing, it will be a product instead.
+
 ### What is pair programming?
-
-### What are you looking forward to learning about programming?
-
-### What is conscious listening?
+Pair programming is an Agile technique where two different programmers share a workstation. Each take the role of either the "Driver" or the "Navigator". The Driver is in charge of writing the code while the Navigator reviews the lines of code as it is typed in as well as assessing the next steps. The roles each programmer takes on typically switches frequently. Advantages of pair programming include efficiency and improving communication and teamwork skills. The code is constantly being reviewed so more mistakes will be caught, and quickly, when they are made.
 
 ### What is a variable?
 A variable is any characteristics or value that can be measured or changed. A variable is used to store information.
 
 ### What programming languages are you interested in learning? Why?
-I'm still unfamiliar with the differences between different programming languages, only the names.
+I'm still unfamiliar with the differences between different programming languages, only the names. 
