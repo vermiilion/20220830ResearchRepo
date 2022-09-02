@@ -2,12 +2,12 @@
 
 # Initially, this was the code I had written for this exercise:
 
-input_from_user = input("Input the name of Month: ")
-if input_from_user == "January" "March" "May" "July" "August" "October" "December":
+month = input("Input the name of Month: ")
+if month == "January" "March" "May" "July" "August" "October" "December":
    print("No. of days: 31 days")
-elif input_from_user == "April" "June" "September" "November":
+elif month == "April" "June" "September" "November":
    print("No. of days: 30 days")
-elif input_from_user == "February":
+elif month == "February":
    print("No. of days: 28/29 days")
    
 # What I did was try to assign multiple items to one variable. The program didn't end up reading the variable properly and it gave no output. 
