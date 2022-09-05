@@ -28,10 +28,10 @@ Link to [My Network Diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=
 | Component Name | Quantity | Price per Unit | Total Price | Reference | Justification 
 | ---|---|---|---|---|---|
 |Computer|4|---|---|---|
-|PowerEdge T350 Tower Server|1|$6,739.95|$6,739.95|https://www.dell.com/en-nz/shop/storage-servers-and-networking-for-business/poweredge-t350-tower-server/spd/poweredge-t350/pet350tm0211nzoo?configurationid=38b32fe9-2e70-412b-8339-1c6b9b58cfd8|32GB
-|Switch|1|
-|Router|1|
-|Printer|1|
+|PowerEdge T350 Tower Server|1|$6,739.95|$6,739.95|https://www.dell.com/en-nz/shop/storage-servers-and-networking-for-business/poweredge-t350-tower-server/spd/poweredge-t350/pet350tm0211nzoo?configurationid=38b32fe9-2e70-412b-8339-1c6b9b58cfd8|This server has 64GB of RAM, more than enough for a network of this size. 
+|NETGEAR ProSAFE GS108 8-port Gigabit Switch 8x GbE|1|$74.69|$74.69|https://www.pbtech.co.nz/product/SWHNGR3083/NETGEAR-ProSAFE-GS108-8-port-Gigabit-Switch-8x-GbE|Only 8 ports needed 
+|Netcomm NF10WV ADSL/VDSL Wi-Fi Modem Router|1|$131.15|$131.15|https://www.pbtech.co.nz/product/MODNCM1058/Netcomm-NF10WV-ADSLVDSL-Wi-Fi-Modem-Router-with-VO|I chose a modem router to ensure the networks continued connection with the internet
+|MFCL3770CDW Colour Wireless LED 4-in-1 Printer|1|$599.96|$599.96|https://www.brother.co.nz/printers/colour-laser-printers/mfcl3770cdw|
 |Cable|
 |Monitor
 |Mouse & Keyboard|
