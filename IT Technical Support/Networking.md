@@ -25,15 +25,18 @@ A switch is a networking hardware that connects all the devices in a network. Fo
 
 Link to [My Network Diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Network-Diagram.drawio#R7Zpbc9soFMc%2FjR%2FXIwld7MfGznZn9jKe9cOm%2B5LBErGYSEJF%2BLaffsECS4DTKG59rfuQwgGDxP%2FHEXDogVG%2B%2Fkxhmf5JEpT1PCdZ98C453lD1%2Bd%2FhWFTGwIX1IY5xUltchvDFP%2BHpNGR1gVOUKVVZIRkDJe6MSZFgWKm2SClZKVXeyGZ3msJ58gyTGOY2dZ%2FcMLS2jrwosb%2BG8LzVPXshsO6JIeqsnyTKoUJWbVM4LEHRpQQVqfy9QhlYuzUuNS%2F%2B%2FWN0t2DUVSwLj%2F4%2Bm%2F6HMFZ9vskH8BZPhs%2FfaW%2FSDGWMFvIF5YPyzZqBPhzlyKZr%2BdC4X6Mq5j0qxVmcYqq%2ForQ1zkli%2FK5NvXAQ%2FWKtomxwzMpyzOedHmyJLhgiD4u%2BRNX0pbAKkWJrPuCs2xEMkK3PQMHhINhJBpklLyiVsnL9t%2BuRCnDx%2FRhiSjDXL8%2F4AxlE1JhhknBy2aEMZK3KnzK8FwUMFJyK5S5GIlH5AayYBkueKeKK%2FGA9phLGUSjaN0ySQ0%2BI5IjRje8iiwFoRxzOSGA4mPV4OU6stm0hVYg60FJ9HzXdCM6T0jdP8CAbzHwF2JCVm6c1pqaTPB3Zbq2ukQFKZChpzRZ42zKkeMkEd08rFLM0LSEsehzxdHjNs5Zkexw%2BRFqDHxdjchWI3RsMcCxxAgsMf7mJPKRul0JvKEuwZkVCA91iXQrVCX%2Fv%2FvB92R3NNlDW%2FZosMcLgiPJHh38JUR0KWTnoqE6fZf%2BY9K7A1t7H9jah96RtB9Y2k9rIW%2FX6bpuP9BE8ALvvH53eOgEjElebj3vMyyS5xJRXKaIwqzql%2FF9Kn6bAzfUpyLo6IajY1Gg9n13DE6KQaBjELi%2Bcg9nA8G9g3B6EEL30vyBd8fg%2FBgE7rkx6LA6QEXySZz4NYuulqz6CoqPDN08iQx3czL7RdbcZsbrds3x5r2hrciCxuj91Q2DdI7YN%2BrJ4wiUaMeStlAtIYI9qzRloyiDDC%2F1w8x96sgeJoL%2BhgPf1Y9HAs8QuH5v%2Bav24aPZkPGBASYp9cBYDW1h2b324fx4HZYVF82PmoDXBpCx1fPN7UNngCIDoMGJAeqwHLlsgFT05LoBsnQ%2FGCCTxGMD1GEhc9kAedcJkGN4oKv9hHWI1R0EUBufFk1vALTNTfhqmr%2BPWIPWxjVmT4o%2Bnm41xXNNSyKzaWXMdg6nM%2BoIJ7goOD0DTjA8EE7PhNM%2FMZx2EPG74LwansLL4sn4WlqntZ15Mr6W7qmXW3Yc1OLpw9t%2Biot7YO5tRFVoIDJDA6HyUi2Ih3tuKAD%2FbV6%2Fa%2Ffv2THZiRTThOJ2IjS2DGp8zxWh8ew42Y9w8o1j%2F9L26ydw8srLXIj33u1t1FL14L2Ouet2Tuy97dO6kXTLtzthzVCaf%2B6LLKrhn0sFM5K1527BaVWwD45uXwUzfnD%2BuWCfvvwMKug364LjXW7k2eYmc%2F0Zaa6Dg8f%2FAQ%3D%3D)
 
-| Component Name | Quantity | Price per Unit | Total Price | Reference | 
-| ---|---|---|---|---|
+| Component Name | Quantity | Price per Unit | Total Price | Reference | Justification 
+| ---|---|---|---|---|---|
 |Computer|4|---|---|---|
+|PowerEdge T350 Tower Server|1|$6,739.95|$6,739.95|https://www.dell.com/en-nz/shop/storage-servers-and-networking-for-business/poweredge-t350-tower-server/spd/poweredge-t350/pet350tm0211nzoo?configurationid=38b32fe9-2e70-412b-8339-1c6b9b58cfd8|32GB
 |Switch|1|
 |Router|1|
 |Printer|1|
-|Server|1|
 |Cable|
 |Monitor
 |Mouse & Keyboard|
+|Headphones|
+|VPN|
+|Windows Server 2022 Essentials|1|Incl. with Server|$0|- |
 
 
