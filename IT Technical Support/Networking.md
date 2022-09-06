@@ -27,16 +27,16 @@ Link to [My Network Diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=
 
 | Component Name | Quantity | Price per Unit | Total Price | Reference | Justification 
 | ---|---|---|---|---|---|
-|Computer|4|---|---|---|
+|Inspiron Compact Desktop|4|$973.98|$3895.92|https://www.dell.com/en-nz/shop/dell-deals-laptops-desktops-monitors-on-sale/inspiron-compact-desktop/spd/inspiron-3910-desktop/hdi391006nz|A keyboard is included with the computer
 |PowerEdge T350 Tower Server|1|$6,739.95|$6,739.95|https://www.dell.com/en-nz/shop/storage-servers-and-networking-for-business/poweredge-t350-tower-server/spd/poweredge-t350/pet350tm0211nzoo?configurationid=38b32fe9-2e70-412b-8339-1c6b9b58cfd8|This server has 64GB of RAM, more than enough for a network of this size. 
 |NETGEAR ProSAFE GS108 8-port Gigabit Switch 8x GbE|1|$74.69|$74.69|https://www.pbtech.co.nz/product/SWHNGR3083/NETGEAR-ProSAFE-GS108-8-port-Gigabit-Switch-8x-GbE|Only 8 ports needed 
 |Netcomm NF10WV ADSL/VDSL Wi-Fi Modem Router|1|$131.15|$131.15|https://www.pbtech.co.nz/product/MODNCM1058/Netcomm-NF10WV-ADSLVDSL-Wi-Fi-Modem-Router-with-VO|I chose a modem router to ensure the networks continued connection with the internet
 |MFCL3770CDW Colour Wireless LED 4-in-1 Printer|1|$599.96|$599.96|https://www.brother.co.nz/printers/colour-laser-printers/mfcl3770cdw|
 |Cable|
-|Monitor
-|Mouse & Keyboard|
-|Headphones|
-|VPN|
+|Dell 24 Monitor – S2421HN|5|$229.00|$1145.00|https://www.dell.com/en-nz/shop/dell-24-monitor-s2421hn/apd/210-bdmj/monitors-monitor-accessories|
+|Dell Laser Wired Mouse - MS3220 - Black|5|$26.00|$130.00|https://www.dell.com/en-nz/shop/dell-laser-wired-mouse-ms3220-black/apd/570-abdy/pc-accessories|
+|Headphones|4|$51.06|$204.24|https://www.pbtech.co.nz/product/IPHJAB3300552/Jabra-Enterprise-Biz-1500-USB---Mono-Entry-level-L|
+|Mullvad VPN|monthly|$8.14|$97.68 p.a.|https://mullvad.net/en/|
 |Windows Server 2022 Essentials|1|Incl. with Server|$0|- |
-|-|-|Total Costs:|-
+|-|-|Total Costs:|$13,018.59
 
