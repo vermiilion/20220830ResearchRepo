@@ -24,8 +24,6 @@ Available budget: $20,000/-
 ## Network Diagram
 Link to [My Network Diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Network-Diagram.drawio#R7ZrbctsqFIafxpf1SEInXzZ2epi2ezz1RdPeZLBELCaSUBE%2B7acvWMgS4NSOk1hu4kxmAguEJL6fxWJFPTDMVh8pLJJvJEZpz7HiVQ%2BMeo5ju47TE79WvK4swcCtDDOKY9mpMUzw%2F0gaLWmd4xiVSkdGSMpwoRojkucoYooNUkqWarc7kqp3LeAMGYZJBFPT%2BgPHLKmsoRM09k8Iz5L6zrY%2FqFoyWHeWb1ImMCbLlglc98CQEsKqUrYaolRMXj0v1XUfHmjdPhhFOTvkgt%2B%2FktsATtMv4yyE02w6uvlN34FqlAVM5%2FKF5cOydT0D%2FLkLUcxWM4G4H%2BEyIv1yiVmUoLK%2FJPR%2BRsm8uK1MPXBV3qNNYWTxSsKylBdtXiwIzhmi1wv%2BxKW0xbBMUCz73uE0HZKU0M2dgQX8cBCIARkl96jVcrf52bbUZPicXi0QZZjz%2BwqnKB2TEjNMct42JYyRrNXhfYpnooGRgluhrEVIPCI3kDlLcc5vWutKPKA55xKDGBStWibJ4CMiGWJ0zbvIVuD7fa%2B6SC4JUCtk2QjMtuTASUtcnuwHpaZn28Eb7LwgyT9CBa6hgv8QE2C5cVJR1VXB35apdFVIOcmRRlSajJnWgWQ4jsVtrpYJZmhSwEjcc8nFx21caXm8Fcxz8AhdlUZg0vAtEwZ4KRieAUN41YyP9Z1rks%2FYm0Fh2x2j8I%2F1jnRDqpR%2FLy5xD%2FdAdYi%2BiT0Id7hD8ELYg6M3RUQXAjuHhqryBf0e9ANHXfI7vK8LTPa%2B80LsQ4P9pAL5Zrzu1p125XUHxy6%2FiGTFxu%2Fewjy%2BLRDFRYIoTMt%2BEV0W4t9VYNeI6zDoQCccvJQK6r3%2FIoOTysBTZeDZbn1a6UwI9kUIpxeCb5%2BbP3AuMuheBt6OI9lpZXBAdIDy%2BL1I%2FTUhVwurGj%2FxmaHrG1Hhbk5Wf8qem8po1e45Wu%2Bb2pLMaYT2RzcM0hlif%2BkngzIUK%2FlJE1QLhLcjSqttFKWQ4YWa1dxFR95hLNTf6MC11SDRczTA1XvLq9pZSH0gbYMBulKqiTEG2ohl%2B9rH68c5IKx4hH6O10G9kM4FsKNycfXw%2FmDA%2BkDWiQEfEC6cBrB91oBB%2BK8CPiAQOA1g57wAWxqXo11014DNDLgB%2BNGRHsX5JRP7sES3mVi7r%2BdizYBvsON%2FU8B9WK9PCvgcMwk%2FljB1UbyelJyJoZ7frpJyjpkYfYrXRSvMWmE3r%2F1stTRBt6isW5UxX9P8hQSjJ3rv2suciffebse10%2F1nt2fzgDaUbvn1Llg9e%2Bp2nUOvB35bFPTkZdg1BfMs8vop6Cmj7teCeWB4CxQG6lo44Wctn6mbjJiX3cTjD1fu91%2FZIvfenehYvjevFp7Vtq%2Fn1cBzHdqMj8Web9vfifdcDuXBgTI47%2BgPHJ19A5oM9DDyaBnwavOtatW9%2BeIXXP8B)
 
-## Communication Channel 
-Communication between sites will be secured using the modem/router. Data can be transferred via the internet and the built-in firewall within the modem/router will serve as a security measure.
 ## Network Components List
 | Component Name | Quantity | Price per Unit | Total Price | Reference | Justification 
 | ---|---|---|---|---|---|
@@ -40,3 +38,42 @@ Communication between sites will be secured using the modem/router. Data can be 
 |Windows Server 2022 Essentials|1|Incl. with Server|$0|- |Servers require an operating system to run and this one is appropriate and already included in the price of the server.
 |-|-|Total Costs:|$12,898.43
 
+## Communication Channel 
+Communication between sites will be secured using the modem/router. Data can be transferred via the internet and the built-in firewall within the modem/router will serve as a security measure.
+
+## Call Prioritisation System
+
+To manage high call volumes, calls must be assigned with levels of priority according to what needs the most immediate attention.
+To assess the level of priority, many aspects of the call must be considered. Some things to consider are:
+-  Who is affected - whether the problem will affect a whole business, parts of the business, or just the user. 
+-  The time period in which the problem must be attended to - whether it needs urgent attention time-wise, or if it can wait - and how much time can be allowed.
+-  Why the response is needed - Is something not working completely? Are there interruptions in the service? Does the customer have a question about the service? Are they requesting a service?
+
+## Prioritisation Scale
+
+### 1 - Highest priority: 
+- Critical components down
+- The problem will severely affect business
+- Critical client is affected, affecting critical business productivity
+- Immediate attention is required
+- Non-immediate attention will result in escalation of the problem
+
+### 2 - High Priority
+- Critical components affected
+- The problem will largely affect business
+- Time-critical, but not immediate attention required
+
+### 3 - Less Priority
+- Non-critical components down or affected
+- The problem affects only the user or few users in the business
+- The problem slows down or inconveniences productivity, not stop it
+- Doesn't require time-critical attention
+- Requesting a service
+
+### 4 - Lower Priority
+- Non-critical components affected
+- Very little to no affect in business
+- A lot of time can be allowed before attending to the problem without any significant impact
+- Questions regarding the service 
+- Minor inconveniences
+- Feedback
