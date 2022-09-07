@@ -23,15 +23,15 @@ To assess the level of priority, many aspects of the call must be considered. So
 ### 3 - Less Priority
 - Non-critical components down or affected
 - The problem affects only the user or few users in the business
-- The problem slows down productivity, not stop it
+- The problem slows down or inconveniences productivity, not stop it
 - Doesn't require time-critical attention
 - Requesting a service
 
 ### 4 - Lower Priority
-- Questions regarding the service 
 - Non-critical components affected
 - Very little to no affect in business
 - A lot of time can be allowed before attending to the problem without any significant impact
+- Questions regarding the service 
 - Minor inconveniences
 - Feedback
 
