@@ -1,0 +1,468 @@
+{
+	"horror_movies": [
+    {
+			"name": "Halloween",
+			"year": 1978,
+			"director": "John Carpenter",
+			"in_English": true,
+			"runtime_in_mins": 91,
+			"subcategories": [
+				"slasher",
+				"classic"
+			]
+		},
+		{
+			"name": "Candyman",
+			"year": 1992,
+			"director": "Bernard Rose",
+			"in_English": true,
+			"runtime_in_mins": 100,
+			"subcategories": [
+				"slasher",
+				"classic",
+				"urban legend"
+			]
+		},
+		{
+			"name": "The Texas Chainsaw Massacre",
+			"year": 1974,
+			"director": "Tobe Hooper",
+			"in_English": true,
+			"runtime_in_mins": 83,
+			"subcategories": [
+				"slasher",
+				"classic",
+				"body horror"
+			]
+		},
+		{
+			"name": "Scream",
+			"year": 1996,
+			"director": "Wes Craven",
+			"in_English": true,
+			"runtime_in_mins": 112,
+			"subcategories": [
+				"crime",
+				"slasher",
+				"mystery"
+			]
+		},
+		{
+			"name": "X",
+			"year": 2022,
+			"director": "Ti West",
+			"in_English": true,
+			"runtime_in_mins": 105,
+			"subcategories": [
+				"slasher",
+				"period"
+			]
+		},
+		{
+			"name": "Titane",
+			"year": 2021,
+			"director": "Julia Ducournau",
+			"in_English": false,
+			"runtime_in_mins": 108,
+			"subcategories": [
+				"slasher",
+				"drama",
+				"body horror"
+			]
+		},
+		{
+			"name": "Saw",
+			"year": 2004,
+			"director": "James Wan",
+			"in_English": true,
+			"runtime_in_mins": 103,
+			"subcategories": [
+				"crime",
+				"body horror",
+				"mystery"
+			]
+		},
+		{
+			"name": "Cabin Fever",
+			"year": 2002,
+			"director": "Eli Roth",
+			"in_English": true,
+			"runtime_in_mins": 93,
+			"subcategories": [
+				"comedy",
+				"body horror"
+			]
+		},
+		{
+			"name": "The Fly",
+			"year": 1986,
+			"director": "David Cronenberg",
+			"in_English": true,
+			"runtime_in_mins": 96,
+			"subcategories": [
+				"sci-fi",
+				"body horror",
+				"monster"
+			]
+		},
+		{
+			"name": "Eraserhead",
+			"year": 1977,
+			"director": "David Lynch",
+			"in_English": true,
+			"runtime_in_mins": 89,
+			"subcategories": [
+				"horror",
+				"slasher",
+				"mystery",
+				"classic"
+			]
+		},
+		{
+			"name": "The Omen",
+			"year": 1976,
+			"director": "Richard Donner",
+			"in_English": true,
+			"runtime_in_mins": 111,
+			"subcategories": [
+				"supernatural",
+				"religion",
+				"classic"
+			]
+		},
+		{
+			"name": "The Conjuring",
+			"year": 2013,
+			"director": "James Wan",
+			"in_English": true,
+			"runtime_in_mins": 89,
+			"subcategories": [
+				"supernatural",
+				"religion"
+			]
+		},
+		{
+			"name": "Poltergeist",
+			"year": 1982,
+			"director": "Tobe Hooper",
+			"in_English": true,
+			"runtime_in_mins": 114,
+			"subcategories": [
+				"supernatural"
+			]
+		},
+		{
+			"name": "The Exorcist",
+			"year": 1973,
+			"director": "William Friedkin",
+			"in_English": true,
+			"runtime_in_mins": 122,
+			"subcategories": [
+				"religion",
+				"supernatural",
+				"classic"
+			]
+		},
+		{
+			"name": "Shutter",
+			"year": 2004,
+			"director": "Banjong Pisanthanakun",
+			"in_English": false,
+			"runtime_in_mins": 97,
+			"subcategories": [
+				"supernatural",
+				"mystery"
+			]
+		},
+		{
+			"name": "The Blair Witch Project",
+			"year": 1999,
+			"director": "Daniel Myrick",
+			"in_English": true,
+			"runtime_in_mins": 81,
+			"subcategories": [
+				"found footage",
+				"urban legend"
+			]
+		},
+		{
+			"name": "Creep",
+			"year": 2014,
+			"director": "Patrick Bryce",
+			"in_English": true,
+			"runtime_in_mins": 82,
+			"subcategories": [
+				"found footage",
+				"psychological",
+				"comedy"
+			]
+		},
+		{
+			"name": "Trick 'r Treat",
+			"year": 2007,
+			"director": "Michael Dougherty",
+			"in_English": true,
+			"runtime_in_mins": 82,
+			"subcategories": [
+				"comedy",
+				"slasher",
+				"anthology",
+				"urban legend"
+			]
+		},
+		{
+			"name": "Hell House LLC",
+			"year": 2015,
+			"director": "Stephen Cognetti",
+			"in_English": true,
+			"runtime_in_mins": 93,
+			"subcategories": [
+				"found footage",
+				"mystery"
+			]
+		},
+		{
+			"name": "REC",
+			"year": 2007,
+			"director": "Jaume Balagueró",
+			"in_English": false,
+			"runtime_in_mins": 78,
+			"subcategories": [
+				"found footage",
+				"mystery",
+				"monster"
+			]
+		},
+		{
+			"name": "The Shining",
+			"year": 1980,
+			"director": "Stanley Kubrick",
+			"in_English": true,
+			"runtime_in_mins": 144,
+			"subcategories": [
+				"psychological",
+				"mystery",
+				"classic"
+			]
+		},
+		{
+			"name": "Mother!",
+			"year": 2017,
+			"director": "Darren Aronofsky",
+			"in_English": true,
+			"runtime_in_mins": 121,
+			"subcategories": [
+				"psychological",
+				"religion",
+				"drama"
+			]
+		},
+		{
+			"name": "Get Out",
+			"year": 2017,
+			"director": "Jordan Peele",
+			"in_English": true,
+			"runtime_in_mins": 104,
+			"subcategories": [
+				"psychological",
+				"comedy"
+			]
+		},
+		{
+			"name": "Rosemary's Baby",
+			"year": 1968,
+			"director": "Roman Polanski",
+			"in_English": true,
+			"runtime_in_mins": 138,
+			"subcategories": [
+				"psychological",
+				"drama",
+				"supernatural",
+				"classic"
+			]
+		},
+		{
+			"name": "Suspiria",
+			"year": 1977,
+			"director": "Dario Argento",
+			"in_English": false,
+			"runtime_in_mins": 99,
+			"subcategories": [
+				"mystery",
+				"supernatural"
+			]
+		},
+		{
+			"name": "Psycho",
+			"year": 1960,
+			"director": "Alfred Hitchcock",
+			"in_English": true,
+			"runtime_in_mins": 109,
+			"subcategories": [
+				"psychological",
+				"slasher",
+				"mystery",
+				"classic"
+			]
+		},
+		{
+			"name": "The Strangers",
+			"year": 2008,
+			"director": "Bryan Bertino",
+			"in_English": true,
+			"runtime_in_mins": 86,
+			"subcategories": [
+				"home invasion",
+				"slasher",
+				"mystery"
+			]
+		},
+		{
+			"name": "Don't Breathe",
+			"year": 2016,
+			"director": "Fede Álvarez",
+			"in_English": true,
+			"runtime_in_mins": 89,
+			"subcategories": [
+				"home invasion",
+				"slasher",
+				"crime"
+			]
+		},
+		{
+			"name": "The Silence of the Lambs",
+			"year": 1991,
+			"director": "Jonathan Demme",
+			"in_English": true,
+			"runtime_in_mins": 119,
+			"subcategories": [
+				"hpsychological",
+				"crime",
+				"drama"
+			]
+		},
+		{
+			"name": "Let the Right One In",
+			"year": 2008,
+			"director": "Tomas Alfredson",
+			"in_English": false,
+			"runtime_in_mins": 115,
+			"subcategories": [
+				"romance",
+				"drama",
+				"monster"
+			]
+		},
+		{
+			"name": "A Girl Walks Home Alone at Night",
+			"year": 2014,
+			"director": "Ana Lily Amirpour",
+			"in_English": false,
+			"runtime_in_mins": 99,
+			"subcategories": [
+				"drama",
+				"romance",
+				"monster"
+			]
+		},
+		{
+			"name": "Us",
+			"year": 2019,
+			"director": "Jordan Peele",
+			"in_English": true,
+			"runtime_in_mins": 116,
+			"subcategories": [
+				"home invasion",
+				"psychological",
+				"mystery"
+			]
+		},
+		{
+			"name": "You're Next",
+			"year": 2011,
+			"director": "Adam Wingard",
+			"in_English": true,
+			"runtime_in_mins": 94,
+			"subcategories": [
+				"home invasion",
+				"slasher",
+				"comedy"
+			]
+		},
+		{
+			"name": "Annihilation",
+			"year": 2018,
+			"director": "Alex Garland",
+			"in_English": true,
+			"runtime_in_mins": 115,
+			"subcategories": [
+				"monster",
+				"sci-fi",
+				"psychological"
+			]
+		},
+		{
+			"name": "IT",
+			"year": 1990,
+			"director": "Tommy Lee Wallace",
+			"in_English": true,
+			"runtime_in_mins": 192,
+			"subcategories": [
+				"monster",
+				"drama",
+				"psychological",
+				"supernatural"
+			]
+		},
+		{
+			"name": "The Thing",
+			"year": 1982,
+			"director": "John Carpenter",
+			"in_English": true,
+			"runtime_in_mins": 109,
+			"subcategories": [
+				"monster",
+				"sci-fi",
+				"mystery",
+				"classic"
+			]
+		},
+		{
+			"name": "The Strangers",
+			"year": 2008,
+			"director": "Bryan Bertino",
+			"in_English": true,
+			"runtime_in_mins": 86,
+			"subcategories": [
+				"home invasion",
+				"slasher",
+				"mystery"
+			]
+		},
+		{
+			"name": "The Wailing",
+			"year": 2016,
+			"director": "Na Hong-jin",
+			"in_English": false,
+			"runtime_in_mins": 156,
+			"subcategories": [
+				"crime",
+				"body horror",
+				"mystery"
+			]
+		},
+		{
+			"name": "Ringu",
+			"year": 1998,
+			"director": "Hideo Nakata",
+			"in_English": false,
+			"runtime_in_mins": 96,
+			"subcategories": [
+				"urban legend",
+				"supernatural",
+				"mystery",
+				"classic"
+			]
+		}
+	]
+}
