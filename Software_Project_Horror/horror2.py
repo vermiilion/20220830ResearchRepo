@@ -1,7 +1,7 @@
 import json
 
-with open('horror2.json') as f:
+with open('Software_Project_Horror/horror.json') as f:
     data = json.load(f)
-    print(data["year"])
-# for movie in data["horror_movies"]:
-#     print(movie,["year"])
+    # print(data["name"])
+for movie in data["horror_movies"]:
+    print(movie["name"],movie["year"])
