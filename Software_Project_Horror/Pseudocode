@@ -1,0 +1,9 @@
+Create JSON file "horror.json"
+Input horror movie info to JSON file
+Create Python file named "horror2.py"
+Import JSON framework
+Load data from "horror.json" into Python file
+Create an iterating loop using the temporary variable "movie"
+Display the corresponding movie in horror.json within the loop (for example, 0 prints the first movie, 2 the third etc)
+This loop continues until all movies within horror.json have been printed and displayed
+The program ends
